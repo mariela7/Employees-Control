@@ -1,0 +1,14 @@
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\obj\Debug\EmployeesAtSameTime.csproj.CoreCompileInputs.cache
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\obj\Debug\CoincidenciaEmpleados.exe
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\obj\Debug\CoincidenciaEmpleados.pdb
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\bin\Debug\CoincidenciaEmpleados.exe.config
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\bin\Debug\CoincidenciaEmpleados.exe
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\bin\Debug\CoincidenciaEmpleados.pdb
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\obj\Debug\EmployeesAtSameTime.csproj.AssemblyReference.cache
+D:\ioet\EmployeesAtSameTime\EmployeesAtSameTime\bin\Debug\CoincidenciaEmpleados.exe.config
+D:\ioet\EmployeesAtSameTime\EmployeesAtSameTime\bin\Debug\CoincidenciaEmpleados.exe
+D:\ioet\EmployeesAtSameTime\EmployeesAtSameTime\bin\Debug\CoincidenciaEmpleados.pdb
+D:\ioet\EmployeesAtSameTime\EmployeesAtSameTime\obj\Debug\EmployeesAtSameTime.csproj.AssemblyReference.cache
+D:\ioet\EmployeesAtSameTime\EmployeesAtSameTime\obj\Debug\EmployeesAtSameTime.csproj.CoreCompileInputs.cache
+D:\ioet\EmployeesAtSameTime\EmployeesAtSameTime\obj\Debug\CoincidenciaEmpleados.exe
+D:\ioet\EmployeesAtSameTime\EmployeesAtSameTime\obj\Debug\CoincidenciaEmpleados.pdb

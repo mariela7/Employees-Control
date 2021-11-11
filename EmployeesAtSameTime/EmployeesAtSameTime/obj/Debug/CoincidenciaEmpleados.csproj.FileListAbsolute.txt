@@ -1,0 +1,14 @@
+D:\Aprender\Pruebas para trabajos\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\bin\Debug\CoincidenciaEmpleados.exe.config
+D:\Aprender\Pruebas para trabajos\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\bin\Debug\CoincidenciaEmpleados.exe
+D:\Aprender\Pruebas para trabajos\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\bin\Debug\CoincidenciaEmpleados.pdb
+D:\Aprender\Pruebas para trabajos\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\obj\Debug\CoincidenciaEmpleados.csproj.AssemblyReference.cache
+D:\Aprender\Pruebas para trabajos\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\obj\Debug\CoincidenciaEmpleados.csproj.CoreCompileInputs.cache
+D:\Aprender\Pruebas para trabajos\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\obj\Debug\CoincidenciaEmpleados.exe
+D:\Aprender\Pruebas para trabajos\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\obj\Debug\CoincidenciaEmpleados.pdb
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\bin\Debug\CoincidenciaEmpleados.exe.config
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\bin\Debug\CoincidenciaEmpleados.exe
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\bin\Debug\CoincidenciaEmpleados.pdb
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\obj\Debug\CoincidenciaEmpleados.csproj.AssemblyReference.cache
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\obj\Debug\CoincidenciaEmpleados.csproj.CoreCompileInputs.cache
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\obj\Debug\CoincidenciaEmpleados.exe
+D:\ioet\CoincidenciaEmpleados\CoincidenciaEmpleados\obj\Debug\CoincidenciaEmpleados.pdb
